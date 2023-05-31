@@ -1,0 +1,48 @@
+PODS:
+  - Alamofire (4.9.1)
+  - CarbonKit (2.3.1)
+  - DropDown (2.3.13)
+  - IBAnimatable (6.1.0)
+  - IQKeyboardManager (6.5.6)
+  - NVActivityIndicatorView (5.1.1):
+    - NVActivityIndicatorView/Base (= 5.1.1)
+  - NVActivityIndicatorView/Base (5.1.1)
+  - SDWebImage (5.11.0):
+    - SDWebImage/Core (= 5.11.0)
+  - SDWebImage/Core (5.11.0)
+  - SwiftyJSON (5.0.1)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.2)
+  - CarbonKit
+  - DropDown
+  - IBAnimatable
+  - IQKeyboardManager
+  - NVActivityIndicatorView
+  - SDWebImage
+  - SwiftyJSON
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - CarbonKit
+    - DropDown
+    - IBAnimatable
+    - IQKeyboardManager
+    - NVActivityIndicatorView
+    - SDWebImage
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  CarbonKit: b60e24dbdb47179990d5e074efa87ab819c8de98
+  DropDown: 8a2116376c1981888557f72ec2ffc9a5e0e456ec
+  IBAnimatable: 99dddd4c0625884a301ba3ecbc1615f8a390368e
+  IQKeyboardManager: 2a6e97afdafc7becf0cb17a9a8d795e3a980717f
+  NVActivityIndicatorView: 1f6c5687f1171810aa27a3296814dc2d7dec3667
+  SDWebImage: 7acbb57630ac7db4a495547fb73916ff3e432f6b
+  SwiftyJSON: 2f33a42c6fbc52764d96f13368585094bfd8aa5e
+
+PODFILE CHECKSUM: ec5e5e5e201602e59d4d69441298d11cef385088
+
+COCOAPODS: 1.10.1

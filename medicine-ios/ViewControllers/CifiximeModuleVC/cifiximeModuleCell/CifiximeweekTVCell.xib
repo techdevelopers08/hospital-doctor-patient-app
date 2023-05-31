@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="17701" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="17703"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="segoeui.ttf">
+            <string>SegoeUI</string>
+        </array>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" restorationIdentifier="CifiximeweekTVCell" selectionStyle="default" indentationWidth="10" reuseIdentifier="CifiximeweekTVCell" rowHeight="51" id="KGk-i7-Jjw" customClass="CifiximeweekTVCell" customModule="medicine_ios" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="51"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="KGk-i7-Jjw" id="H2p-sc-9uM">
+                <rect key="frame" x="0.0" y="0.0" width="320" height="51"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="iix-4M-wwz">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="51"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Sunday" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="06p-2g-V0Q">
+                                <rect key="frame" x="5" y="15" width="52" height="21.5"/>
+                                <fontDescription key="fontDescription" name="SegoeUI" family="Segoe UI" pointSize="16"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <button opaque="NO" userInteractionEnabled="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="h8j-D3-IIO">
+                                <rect key="frame" x="290" y="13" width="25" height="25"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="25" id="1cH-HJ-qUm"/>
+                                    <constraint firstAttribute="width" constant="25" id="qwc-vO-1wO"/>
+                                </constraints>
+                                <state key="normal" image="uncheck"/>
+                                <state key="selected" image="check (1)"/>
+                                <userDefinedRuntimeAttributes>
+                                    <userDefinedRuntimeAttribute type="color" keyPath="borderColor">
+                                        <color key="value" red="0.14588290449999999" green="0.1094988063" blue="0.11749044810000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                    </userDefinedRuntimeAttribute>
+                                    <userDefinedRuntimeAttribute type="number" keyPath="borderWidth">
+                                        <real key="value" value="1"/>
+                                    </userDefinedRuntimeAttribute>
+                                </userDefinedRuntimeAttributes>
+                                <connections>
+                                    <action selector="checkboxBtn:" destination="KGk-i7-Jjw" eventType="touchUpInside" id="JsF-pJ-JHJ"/>
+                                </connections>
+                            </button>
+                        </subviews>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <constraints>
+                            <constraint firstItem="06p-2g-V0Q" firstAttribute="leading" secondItem="iix-4M-wwz" secondAttribute="leading" constant="5" id="VqZ-RW-Vqi"/>
+                            <constraint firstItem="h8j-D3-IIO" firstAttribute="centerY" secondItem="06p-2g-V0Q" secondAttribute="centerY" id="d2l-dy-boF"/>
+                            <constraint firstItem="06p-2g-V0Q" firstAttribute="centerY" secondItem="iix-4M-wwz" secondAttribute="centerY" id="fq2-4z-6yT"/>
+                            <constraint firstAttribute="trailing" secondItem="h8j-D3-IIO" secondAttribute="trailing" constant="5" id="ld0-8Z-kGt"/>
+                        </constraints>
+                    </view>
+                </subviews>
+                <constraints>
+                    <constraint firstAttribute="bottom" secondItem="iix-4M-wwz" secondAttribute="bottom" id="35g-Fq-Ter"/>
+                    <constraint firstItem="iix-4M-wwz" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" id="GVu-dc-41O"/>
+                    <constraint firstItem="iix-4M-wwz" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" id="f8R-Mq-OOo"/>
+                    <constraint firstAttribute="trailing" secondItem="iix-4M-wwz" secondAttribute="trailing" id="unw-tO-TLZ"/>
+                </constraints>
+            </tableViewCellContentView>
+            <viewLayoutGuide key="safeArea" id="njF-e1-oar"/>
+            <connections>
+                <outlet property="checkBoxBtn" destination="h8j-D3-IIO" id="Nf9-iV-gUg"/>
+                <outlet property="weekLbl" destination="06p-2g-V0Q" id="20r-rh-E2g"/>
+            </connections>
+            <point key="canvasLocation" x="121.73913043478262" y="67.299107142857139"/>
+        </tableViewCell>
+    </objects>
+    <resources>
+        <image name="check (1)" width="61" height="61"/>
+        <image name="uncheck" width="61" height="61"/>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>

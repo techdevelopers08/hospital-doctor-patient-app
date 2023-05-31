@@ -1,0 +1,6 @@
+framework module Pods_medicine_ios {
+  umbrella header "Pods-medicine-ios-umbrella.h"
+
+  export *
+  module * { export * }
+}

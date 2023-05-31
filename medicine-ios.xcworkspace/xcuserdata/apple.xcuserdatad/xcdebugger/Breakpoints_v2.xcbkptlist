@@ -1,0 +1,600 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "172E36F4-17A1-4701-BA33-D259E7DB9067"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "449FE709-51BA-41B2-A5B6-86A114F884D1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "medicine-ios/ViewControllers/AddDiagnisVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "283"
+            endingLineNumber = "283"
+            landmarkName = "onSucsses(msg:response:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3FB67C26-4946-44DD-9E12-5352B54FE223"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "medicine-ios/ViewControllers/AddDiagnosisVC/AddDiagnisVM/AddDiagnisVM.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "AddDiagnisVM"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "3FB67C26-4946-44DD-9E12-5352B54FE223 - c73e2f010c2ed03c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "medicine_ios.AddDiagnisVM.hitApidiganosistype() -&gt; ()"
+                  moduleName = "medicine-ios"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Documents/NewGit_Lab_Projects/medicine-ios/medicine-ios/ViewControllers/AddDiagnosisVC/AddDiagnisVM/AddDiagnisVM.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "72">
+               </Location>
+               <Location
+                  uuid = "3FB67C26-4946-44DD-9E12-5352B54FE223 - 7edc0ac3c0aa0c51"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Dictionary&lt;Swift.String, Any&gt;) -&gt; () in medicine_ios.AddDiagnisVM.hitApidiganosistype() -&gt; ()"
+                  moduleName = "medicine-ios"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Documents/NewGit_Lab_Projects/medicine-ios/medicine-ios/ViewControllers/AddDiagnosisVC/AddDiagnisVM/AddDiagnisVM.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "56">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F5978F4A-BCA0-40B6-9776-B97B7EADA130"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "medicine-ios/HelperClasses/HelperClasses/RefreshToken.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "222"
+            endingLineNumber = "222"
+            landmarkName = "postMultiPartAuth(url:jsonObject:profilePic:authorizationToken:refreshToken:completionHandler:failureHandler:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "887A1CF9-672C-4C72-BF55-3DD73DAD71AF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "medicine-ios/HelperClasses/HelperClasses/RefreshToken.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "224"
+            endingLineNumber = "224"
+            landmarkName = "postMultiPartAuth(url:jsonObject:profilePic:authorizationToken:refreshToken:completionHandler:failureHandler:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "887A1CF9-672C-4C72-BF55-3DD73DAD71AF - 5b738a6286b413f4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static medicine_ios.APIClient.postMultiPartAuth(url: medicine_ios.Api, jsonObject: Swift.Dictionary&lt;Swift.String, Any&gt;, profilePic: Swift.Optional&lt;(key: Swift.String, type: Swift.Array&lt;Any&gt;)&gt;, authorizationToken: Swift.Optional&lt;Swift.Bool&gt;, refreshToken: Swift.Optional&lt;Swift.Bool&gt;, completionHandler: Swift.Optional&lt;(Swift.Dictionary&lt;Swift.String, Any&gt;) -&gt; ()&gt;, failureHandler: Swift.Optional&lt;(Swift.Dictionary&lt;Swift.String, Any&gt;) -&gt; ()&gt;) -&gt; ()"
+                  moduleName = "medicine-ios"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Documents/NewGit_Lab_Projects/medicine-ios/medicine-ios/HelperClasses/HelperClasses/RefreshToken.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "224"
+                  endingLineNumber = "224"
+                  offsetFromSymbolStart = "2652">
+               </Location>
+               <Location
+                  uuid = "887A1CF9-672C-4C72-BF55-3DD73DAD71AF - cf14e1cf5574aec5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.MultipartFormData) -&gt; () in static medicine_ios.APIClient.postMultiPartAuth(url: medicine_ios.Api, jsonObject: Swift.Dictionary&lt;Swift.String, Any&gt;, profilePic: Swift.Optional&lt;(key: Swift.String, type: Swift.Array&lt;Any&gt;)&gt;, authorizationToken: Swift.Optional&lt;Swift.Bool&gt;, refreshToken: Swift.Optional&lt;Swift.Bool&gt;, completionHandler: Swift.Optional&lt;(Swift.Dictionary&lt;Swift.String, Any&gt;) -&gt; ()&gt;, failureHandler: Swift.Optional&lt;(Swift.Dictionary&lt;Swift.String, Any&gt;) -&gt; ()&gt;) -&gt; ()"
+                  moduleName = "medicine-ios"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Documents/NewGit_Lab_Projects/medicine-ios/medicine-ios/HelperClasses/HelperClasses/RefreshToken.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "228"
+                  endingLineNumber = "228"
+                  offsetFromSymbolStart = "252">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F8D1B302-579A-4D9A-B14F-A6B0CDF1217A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "medicine-ios/HelperClasses/HelperClasses/RefreshToken.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "229"
+            endingLineNumber = "229"
+            landmarkName = "postMultiPartAuth(url:jsonObject:profilePic:authorizationToken:refreshToken:completionHandler:failureHandler:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B76D046A-6419-431F-8889-F728EE004B74"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "medicine-ios/HelperClasses/HelperClasses/RefreshToken.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "228"
+            endingLineNumber = "228"
+            landmarkName = "postMultiPartAuth(url:jsonObject:profilePic:authorizationToken:refreshToken:completionHandler:failureHandler:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "70C2CC33-407E-4A1C-981D-D740EF27953E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "medicine-ios/HelperClasses/HelperClasses/RefreshToken.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "235"
+            endingLineNumber = "235"
+            landmarkName = "postMultiPartAuth(url:jsonObject:profilePic:authorizationToken:refreshToken:completionHandler:failureHandler:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1CB29F29-9621-4C36-B510-BE3D5425CD6D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "medicine-ios/HelperClasses/HelperClasses/RefreshToken.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "242"
+            endingLineNumber = "242"
+            landmarkName = "postMultiPartAuth(url:jsonObject:profilePic:authorizationToken:refreshToken:completionHandler:failureHandler:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1CB29F29-9621-4C36-B510-BE3D5425CD6D - dc32c9435c0bdff8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Alamofire.SessionManager.MultipartFormDataEncodingResult) -&gt; () in static medicine_ios.APIClient.postMultiPartAuth(url: medicine_ios.Api, jsonObject: Swift.Dictionary&lt;Swift.String, Any&gt;, profilePic: Swift.Optional&lt;(key: Swift.String, type: Swift.Array&lt;Any&gt;)&gt;, authorizationToken: Swift.Optional&lt;Swift.Bool&gt;, refreshToken: Swift.Optional&lt;Swift.Bool&gt;, completionHandler: Swift.Optional&lt;(Swift.Dictionary&lt;Swift.String, Any&gt;) -&gt; ()&gt;, failureHandler: Swift.Optional&lt;(Swift.Dictionary&lt;Swift.String, Any&gt;) -&gt; ()&gt;) -&gt; ()"
+                  moduleName = "medicine-ios"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Documents/NewGit_Lab_Projects/medicine-ios/medicine-ios/HelperClasses/HelperClasses/RefreshToken.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "242"
+                  endingLineNumber = "242"
+                  offsetFromSymbolStart = "556">
+               </Location>
+               <Location
+                  uuid = "1CB29F29-9621-4C36-B510-BE3D5425CD6D - 12d2393a8dd3231e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Alamofire.DataResponse&lt;Any&gt;) -&gt; () in closure #2 (Alamofire.SessionManager.MultipartFormDataEncodingResult) -&gt; () in static medicine_ios.APIClient.postMultiPartAuth(url: medicine_ios.Api, jsonObject: Swift.Dictionary&lt;Swift.String, Any&gt;, profilePic: Swift.Optional&lt;(key: Swift.String, type: Swift.Array&lt;Any&gt;)&gt;, authorizationToken: Swift.Optional&lt;Swift.Bool&gt;, refreshToken: Swift.Optional&lt;Swift.Bool&gt;, completionHandler: Swift.Optional&lt;(Swift.Dictionary&lt;Swift.String, Any&gt;) -&gt; ()&gt;, failureHandler: Swift.Optional&lt;(Swift.Dictionary&lt;Swift.String, Any&gt;) -&gt; ()&gt;) -&gt; ()"
+                  moduleName = "medicine-ios"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Documents/NewGit_Lab_Projects/medicine-ios/medicine-ios/HelperClasses/HelperClasses/RefreshToken.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "243"
+                  endingLineNumber = "243"
+                  offsetFromSymbolStart = "208">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "33129D0E-8F94-4EF4-A242-24A64E04424E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "medicine-ios/HelperClasses/HelperClasses/RefreshToken.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "237"
+            endingLineNumber = "237"
+            landmarkName = "postMultiPartAuth(url:jsonObject:profilePic:authorizationToken:refreshToken:completionHandler:failureHandler:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A6E11D8A-94A7-44DF-9E88-5DC385B1D07C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "medicine-ios/ViewControllers/AddDiagnisVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "185"
+            endingLineNumber = "185"
+            landmarkName = "collectionView(_:cellForItemAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C5D346A6-62C5-4D0D-826D-963C000EFDA6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "medicine-ios/ViewControllers/AddDiagnisVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "200"
+            endingLineNumber = "200"
+            landmarkName = "collectionView(_:cellForItemAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A3ED8BE5-2DE9-4D3B-A5F9-C9C8AEB41379"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "medicine-ios/ViewControllers/AddDiagnosisVC/AddDiagnisVM/AddDiagnisVM.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "callapiaddDiagnosis(param:image:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A3ED8BE5-2DE9-4D3B-A5F9-C9C8AEB41379 - a5d48a5b384bc7ec"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "medicine_ios.AddDiagnisVM.callapiaddDiagnosis(param: Swift.Dictionary&lt;Swift.String, Any&gt;, image: Swift.Array&lt;__C.UIImage&gt;) -&gt; ()"
+                  moduleName = "medicine-ios"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Documents/NewGit_Lab_Projects/medicine-ios/medicine-ios/ViewControllers/AddDiagnosisVC/AddDiagnisVM/AddDiagnisVM.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "68">
+               </Location>
+               <Location
+                  uuid = "A3ED8BE5-2DE9-4D3B-A5F9-C9C8AEB41379 - 4a468acc34dfc128"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Dictionary&lt;Swift.String, Any&gt;) -&gt; () in medicine_ios.AddDiagnisVM.callapiaddDiagnosis(param: Swift.Dictionary&lt;Swift.String, Any&gt;, image: Swift.Array&lt;__C.UIImage&gt;) -&gt; ()"
+                  moduleName = "medicine-ios"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Documents/NewGit_Lab_Projects/medicine-ios/medicine-ios/ViewControllers/AddDiagnosisVC/AddDiagnisVM/AddDiagnisVM.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "56">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "23868C9D-855B-4223-9885-ABD1AAFC875D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "medicine-ios/HelperClasses/HelperClasses/RefreshToken.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "postMultiPartAuth1(url:jsonObject:files:authorizationToken:refreshToken:completionHandler:failureHandler:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B636A96A-5A4A-4B61-B54A-92A49BB79EBF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "medicine-ios/HelperClasses/HelperClasses/RefreshToken.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "postMultiPartAuth1(url:jsonObject:files:authorizationToken:refreshToken:completionHandler:failureHandler:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "142353E6-E456-429D-8AEF-1190477F6303"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "medicine-ios/ViewControllers/AddDiagnisVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "83"
+            endingLineNumber = "83"
+            landmarkName = "signUpFinalData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F13AC83F-6FFD-4458-B9B1-C90BD594F8E4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "medicine-ios/ViewControllers/AddDiagnisVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "77"
+            endingLineNumber = "77"
+            landmarkName = "signUpFinalData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0366742D-E021-47DB-AE82-7C1B19CC1EB1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "medicine-ios/ViewControllers/DiagnosisVC/DiagnosisVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "509DCD0A-F3F3-4E69-8E67-CF25EEDCAB5D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "medicine-ios/ViewControllers/DiagnosisVC/DiagnosisVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "68"
+            endingLineNumber = "68"
+            landmarkName = "oldAddedBtn(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B568513B-6C1B-445E-ABE4-0E1FD3D23014"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "medicine-ios/ViewControllers/DiagnosisVC/DiagnosisVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "67"
+            endingLineNumber = "67"
+            landmarkName = "oldAddedBtn(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F63C9547-AEF8-4A33-B027-F349CE5A1C9D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "medicine-ios/ViewControllers/DiagnosisVC/DiagnosisVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "65"
+            endingLineNumber = "65"
+            landmarkName = "oldAddedBtn(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "597312AD-06BB-4EFB-ACE6-F1FE64827F2E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "medicine-ios/ViewControllers/ScannerVC/ScannerVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "94"
+            endingLineNumber = "94"
+            landmarkName = "metadataOutput(_:didOutput:from:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A433F593-AC5B-4224-A28D-FD019F5C92AC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "medicine-ios/ViewControllers/ScannerVC/ScannerVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "92"
+            endingLineNumber = "92"
+            landmarkName = "metadataOutput(_:didOutput:from:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C8E39789-26FC-48DF-B954-29E1A74C8DCD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "medicine-ios/ViewControllers/QrDetailVC/QrDetailVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "QrDetailVC"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "70FCD896-C8B0-4DB4-9637-B7B701ADE001"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "medicine-ios/ViewControllers/ScannerVC/ScannerVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "104"
+            endingLineNumber = "104"
+            landmarkName = "found(code:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "70FCD896-C8B0-4DB4-9637-B7B701ADE001 - 7532c8da39f05354"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "medicine_ios.ScannerVC.found(code: Swift.String) -&gt; ()"
+                  moduleName = "medicine-ios"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Documents/NewGit_Lab_Projects/medicine-ios/medicine-ios/ViewControllers/ScannerVC/ScannerVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "104"
+                  endingLineNumber = "104"
+                  offsetFromSymbolStart = "228">
+               </Location>
+               <Location
+                  uuid = "70FCD896-C8B0-4DB4-9637-B7B701ADE001 - 7532c8da39f05354"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "medicine_ios.ScannerVC.found(code: Swift.String) -&gt; ()"
+                  moduleName = "medicine-ios"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Documents/NewGit_Lab_Projects/medicine-ios/medicine-ios/ViewControllers/ScannerVC/ScannerVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "104"
+                  endingLineNumber = "104"
+                  offsetFromSymbolStart = "712">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9D98E551-64A0-4E91-93A8-E9EB18E94919"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "medicine-ios/ViewControllers/Auth/HomeVC/HomeVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "129"
+            endingLineNumber = "129"
+            landmarkName = "onSucsses(msg:response:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CB944897-771E-46CF-8D68-26FF28314787"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "medicine-ios/ViewControllers/Auth/HomeVC/HomeVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "130"
+            endingLineNumber = "130"
+            landmarkName = "onSucsses(msg:response:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4F126F08-09D3-42F5-AA34-77F874CD9031"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "medicine-ios/ViewControllers/Auth/HomeVC/HomeVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "128"
+            endingLineNumber = "128"
+            landmarkName = "onSucsses(msg:response:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
